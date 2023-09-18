@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: GABIRELA BARBOSA
+      * Date: 01/09/2023
+      * Purpose: CALCULAR AS NOTAS
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
