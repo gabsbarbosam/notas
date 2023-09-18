@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author: GABIRELA BARBOSA
+      * Author: GABRIELA BARBOSA
       * Date: 01/09/2023
       * Purpose: CALCULAR AS NOTAS
       * Tectonics: cobc
